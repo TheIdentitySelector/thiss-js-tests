@@ -1,0 +1,43 @@
+{
+  "selecting_institution":
+  {"base_url": "https://service.seamlessaccess.org", "src":  "bme", "url":  "https://login.bme.hu/idp/shibboleth",
+    "name":  "Budapest University of Technology and Economics"},
+
+  "too_many_results":
+  {"base_url": "https://service.seamlessaccess.org", "src": "uni"},
+
+  "typing_delays":
+  {"base_url": "https://service.seamlessaccess.org", "src": "uni" },
+
+  "show_all_matches":
+  {"base_url": "https://service.seamlessaccess.org", "src": "london" },
+
+  "remember_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "elte", "url":  "https://idp.elte.hu/auth/saml2/idp/metadata.php",
+    "name":  "Eötvös Loránd University Budapest"},
+
+  "delete_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "elte", "url":  "https://idp.elte.hu/auth/saml2/idp/metadata.php",
+    "name":  "Eötvös Loránd University Budapest"},
+
+  "add_more_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "elte", "url":  "https://idp.elte.hu/auth/saml2/idp/metadata.php",
+    "name":  "Eötvös Loránd University Budapest", "src2": "bme", "url2":  "https://login.bme.hu/idp/shibboleth",
+    "name2":  "Budapest University of Technology and Economics"},
+
+  "add_4th_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "elte", "url":  "https://idp.elte.hu/auth/saml2/idp/metadata.php",
+    "name":  "Eötvös Loránd University Budapest", "src2": "bme", "url2":  "https://login.bme.hu/idp/shibboleth",
+    "name2":  "Budapest University of Technology and Economics", "src3":  "sztaki", "url3": "https://l-aai.sztaki.hu/idp",
+    "name3":  "SZTAKI staff", "src4": "geant", "url4":  "https://idp.geant.org", "name4":  "GÉANT Staff Identity Provider" },
+
+  "dont_remember":
+   {"base_url": "https://service.seamlessaccess.org", "src": "elte", "url":  "https://idp.elte.hu/auth/saml2/idp/metadata.php",
+    "name":  "Eötvös Loránd University Budapest"},
+
+  "learn_more":
+  {"base_url": "https://service.seamlessaccess.org", "url":  "https://seamlessaccess.org/about/trust/",
+     "learn_more_text": "The institution you select will be saved in the browser local storage of this device and will be made available to this and other sites that use SeamlessAccess. You may clear your browser local storage at any time.\nNo login, email or personal information is stored.\nAdditional Privacy Information"}
+}
+
+

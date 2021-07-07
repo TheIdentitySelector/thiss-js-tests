@@ -1,0 +1,43 @@
+{
+  "selecting_institution":
+  {"base_url": "https://service.seamlessaccess.org", "src":  "A'Sharqiyah", "url":  "http://adfs.asu.edu.om/adfs/services/trust",
+    "name":  "A'Sharqiyah University"},
+
+  "too_many_results":
+  {"base_url": "https://service.seamlessaccess.org", "src": "uni"},
+
+  "typing_delays":
+  {"base_url": "https://service.seamlessaccess.org", "src": "uni" },
+
+  "show_all_matches":
+  {"base_url": "https://service.seamlessaccess.org", "src": "london" },
+
+  "remember_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "mit", "url":  "urn:mace:incommon:mit.edu",
+    "name":  "Massachusetts Institute of Technology"},
+
+  "delete_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "Ελληνικό Κέντρο", "url":  "https://aai-logon.hcmr.gr/idp/shibboleth",
+    "name":  "Hellenic Centre for Marine Research"},
+
+  "add_more_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "e-science.pl", "url":  "https://shib.e-science.pl/idp/shibboleth",
+    "name":  "E-SCIENCE.PL", "src2": "poznań", "url2":  "https://elogin.put.poznan.pl/saml20",
+    "name2":  "Poznan University of Technology"},
+
+  "add_4th_selection":
+  {"base_url": "https://service.seamlessaccess.org", "src": "Laboratório", "url":  "https://idp.lip.pt/idp/shibboleth",
+    "name":  "Laboratório de Instrumentação e Física Experimental de Partículas", "src2": "成城", "url2":  "https://asura.seijo.ac.jp/idp/shibboleth",
+    "name2":  "Seijo University", "src3":  "Самарский университет", "url3": "http://adfs.ssau.ru/adfs/services/trust",
+    "name3":  "Samara University", "src4": "geant", "url4":  "https://idp.geant.org", "name4":  "GÉANT Staff Identity Provider" },
+
+  "dont_remember":
+   {"base_url": "https://service.seamlessaccess.org", "src": "elte", "url":  "https://idp.elte.hu/auth/saml2/idp/metadata.php",
+    "name":  "Eötvös Loránd University Budapest"},
+
+  "learn_more":
+  {"base_url": "https://service.seamlessaccess.org", "url":  "https://seamlessaccess.org/about/trust/",
+     "learn_more_text": "The institution you select will be saved in the browser local storage of this device and will be made available to this and other sites that use SeamlessAccess. You may clear your browser local storage at any time.\nNo login, email or personal information is stored.\nAdditional Privacy Information"}
+}
+
+
